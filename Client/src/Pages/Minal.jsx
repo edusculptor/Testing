@@ -1,10 +1,12 @@
 import React from 'react'
+import navbar from '../Component/Navbar.jsx'
 
 function Minal() {
   return (
-    <div>
-      
-    </div>
+  <>
+    <Navbar />
+    <div>Hello I'm Minal here</div>
+  </>
   )
 }
 
