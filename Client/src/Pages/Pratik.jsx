@@ -1,8 +1,11 @@
 import React from 'react'
+import Navbar from '../Component/Navbar'
 
 function Pratik() {
   return (
-    <div>Pratik</div>
+    <>
+    <Navbar/>
+    </>
   )
 }
 
