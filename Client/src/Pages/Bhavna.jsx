@@ -1,10 +1,13 @@
 import React from 'react'
+import Navbar from '../Component/Navbar'
 
 function Bhavna() {
   return (
-    <div>
-      
-    </div>
+    <>
+    <Navbar/>
+    hey i am bhavna
+    
+   </>
   )
 }
 
